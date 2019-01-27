@@ -176,7 +176,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #D0D5B9 !important;
+  background-color: #859c99 !important;
 }
 
 .text-primary {
@@ -189,4 +189,5 @@ a {
 
 a:hover, a:focus, a:active {
   color: #859c99;
+  text-decoration:none;
 }
