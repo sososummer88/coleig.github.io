@@ -66,6 +66,10 @@ p.lead {
   text-align: right;
 }
 
+.social-icons {
+  float: right;
+}
+
 .social-icons a {
   display: inline-block;
   height: 3.5rem;
@@ -76,7 +80,6 @@ p.lead {
   text-align: center;
   font-size: 1.5rem;
   line-height: 3.5rem;
-  margin: auto;
   margin-right: 1rem;
 }
 
