@@ -106,7 +106,7 @@ p.lead {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    width: 17rem;
+    width: 12rem;
     height: 100vh;
   }
   #sideNav .navbar-brand {
@@ -117,9 +117,9 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    max-width: 8rem;
+    max-height: 8rem;
+    border: 0.25rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
     display: -webkit-box;
