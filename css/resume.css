@@ -66,6 +66,10 @@ p.lead {
   text-align: right;
 }
 
+.social-cions {
+  margin-left: 1rem;
+}
+
 .social-icons a {
   display: inline-block;
   height: 3.5rem;
