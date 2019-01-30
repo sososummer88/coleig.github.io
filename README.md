@@ -19,3 +19,6 @@ A sample homepage to showcase skills, courses, and projects.
 ## Screenshots
 ![screenshot1](https://github.com/coleig/coleig.github.io/blob/master/images/ScreenShot1.png)
 ![screenshot2](https://github.com/coleig/coleig.github.io/blob/master/images/ScreenShot2.png)
+
+## Author
+Cole Garbo - https://coleig.github.io/
