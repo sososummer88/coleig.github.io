@@ -15,3 +15,6 @@ A sample homepage to showcase skills, courses, and projects.
 
 ## Requirements & How to Use
 * View the results with any web browser [here](https://coleig.github.io/).
+
+## Screenshots
+![screenshot1](https://github.com/coleig/coleig.github.io/blob/master/images/ScreenShot1.png)
