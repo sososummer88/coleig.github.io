@@ -21,4 +21,4 @@ A sample homepage to showcase skills, courses, and projects.
 ![screenshot2](https://github.com/coleig/coleig.github.io/blob/master/images/ScreenShot2.png)
 
 ## Author
-Cole Garbo - https://coleig.github.io/
+Cole Garbo - https://coleig.github.io/ - for CS5610 Web Development at Northeastern - http://johnguerra.co/classes/webDevelopment_spring_2019/
